@@ -507,9 +507,9 @@ retail-sales-sql/
 
 I'm Yash Dewangan, final year physics undergraduate student at indian institute of science, banglore, also a data analyst passionate about turning raw data into business decisions. This project is part of my SQL portfolio demonstrating real world analysis techniques.
 
-- 🔗 **LinkedIn**: [https://linkedin.com/in/yash-dewangan-a61619250]
-- 💻 **GitHub**: [https://github.com/kyrtyy]
-- 📧 **Email**: [dewyashangan@gmail.com]
+-  **LinkedIn**: [https://linkedin.com/in/yash-dewangan-a61619250]
+-  **GitHub**: [https://github.com/kyrtyy]
+-  **Email**: [dewyashangan@gmail.com]
 
 ---
 
